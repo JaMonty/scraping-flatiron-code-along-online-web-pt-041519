@@ -50,7 +50,7 @@ class Scraper
   end
   end
   
-  def print_courses
+  def print_courses 
   end
   
   
